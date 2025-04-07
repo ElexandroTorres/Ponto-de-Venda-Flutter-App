@@ -17,9 +17,6 @@ Um sistema de ponto de venda (PDV) desenvolvido com **Flutter 3.29.2**, voltado 
 
 ## 📸 Screenshots
 
-> Você pode adicionar imagens dentro da pasta `screenshots/`  
-> Exemplo de como exibir:
-
 | Seleção de Vendedor                | Tela de Produtos                     | Tela de Resumo                          |
 |------------------------------------|--------------------------------------|-----------------------------------------|
 | ![](screenshots/seller_screen.jpg) | ![](screenshots/products_screen.jpg) | ![](screenshots/cart_sumary_screen.jpg) |
